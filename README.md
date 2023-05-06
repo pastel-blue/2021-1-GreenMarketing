@@ -10,5 +10,5 @@
 
 ## Result
 
-+ 중간발표 자료: https://docs.google.com/presentation/d/1oc8akH3kQ67pwFCUCdEt0ZylyJJk3YhZqo4J2JkdhE0/edit?usp=sharing
++ 중간발표 자료: https://docs.google.com/presentation/d/12xQnmw_CYhH2iPw5CzYgQQMVsQjI-4vwmn7XIHOcLss/edit?usp=sharing
 + 최종발표 자료: https://docs.google.com/presentation/d/1gqSWJIN6rxraKJo1pddktZF4DZUH-5O6fst9xbRVqBQ/edit?usp=sharing
